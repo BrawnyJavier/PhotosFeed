@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\1fbc6a4359fe06b8f84e2a31bd4222af4b5697a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_d21909b589ba944f07fb1113d1997e99401560f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_7dc86b8d5b4dddfa4ff2a57e0e4fa7461374bbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\0306e835a5fab2f83aa44ba894a94abfd85ea3f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_66417e5c8553e2b9733bb931284f5d615625db1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\41fa76f2ab101d517785ac17fe07b307472ddf1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_5fa949c3ad57d1eae5bd2b3aa8642827758b960f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1adf9bd50f2682cdcbae5ba6c6e856d6e9e17572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1ba730dbaea43a67faa3aeb2dd9b62bb7af6a44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\cf62555c4e88b80a9e21d0ddb96629686939f8bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_3a6e5ae0d7893de46935c93a283a44cee1a4afae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\c24086c4a0e95a70a788b2631081544c1152a33c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_b4d9b020730e360b13320576c6efb657d0b74934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\353a312a328419c02ddcb298e37b58f2915ba6ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_e9f2eaa577b7718b6099ba056964e651d99b9c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Brawn-Tests\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_7a3fcb3b0b7c0388ea4922f1742563b5bd77f890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_d2f818ceaba4efdab4da8b6548dffd41425a6f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\ed058563251b8ec88fde73644b7ca71737ea97dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_edc20c31c38b3052790d5cd9cfeac50b6ba521a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_30990e690a3394752cb56eba0eabfe5839311839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_095e86b90c33265a1c2180ab719482d65e31b9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\b269dace2785ed38029501841b8584aa699126d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_b1e5535c571b33fa0cfa2da8d679693a6fcb74ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9ae63dc2f47540a5fc5aeeaa05ba0d3848dcedd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\1068313c9f568698bec61fb16fb28bd37a1a54c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_db08397256f43ffffdb3c1f198db0ad756ae8c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_7dc86b8d5b4dddfa4ff2a57e0e4fa7461374bbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_d2f818ceaba4efdab4da8b6548dffd41425a6f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1adf9bd50f2682cdcbae5ba6c6e856d6e9e17572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_30990e690a3394752cb56eba0eabfe5839311839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e9914c9033c4bd521077a2723215d8b9e4d8955e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Brawn-Tests\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab538d978c1fcab7f89c5f96ad75f1305d4f7e80">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_bd943a4941091f0fea489db9eff0d9b402915a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_09ae4b43f12e86d4ad29d51292e7ba9d5089a307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\c24086c4a0e95a70a788b2631081544c1152a33c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_b4d9b020730e360b13320576c6efb657d0b74934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\98bc7f0a22d695d4f0eeb9304c0c7809817a3113\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_c1f39774e2bd8df96bb3a39b4a657bc342d017d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\41fa76f2ab101d517785ac17fe07b307472ddf1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_5fa949c3ad57d1eae5bd2b3aa8642827758b960f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\cf62555c4e88b80a9e21d0ddb96629686939f8bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_3a6e5ae0d7893de46935c93a283a44cee1a4afae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\3a02a24dab96425885086acde9ec94255272514a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_be0b1db0a82d98ca1ed40e7b00fa9c92821d3652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1ba730dbaea43a67faa3aeb2dd9b62bb7af6a44f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\bd81f51cb00f05dded52fb070ac31de0379bde66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_6ec0d0f5ce49b168b409987d79219e8215b37e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8daa9000c86b3e6eb965d927558d34340908762f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\e0093c15b4df08c00c8df899206ccf91d6cc898c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_9a9eceaa67a2da4cedd8c05d64a159d581e37888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8daa9000c86b3e6eb965d927558d34340908762f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\16b4f0e21e8284341b691d93af6fa8ce85b3d87c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_58669d7ea053c573d29127c5f5f3d4fc44d4cff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_c93d6c806e40d7bf468821fb5852fff7598fb9c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\4dadd5dd3a6adb284d95d830670e8732353b474b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_e06d1d222e9335c0de815940b04e47bfb9e3e82b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\368e84261007b22812ef536d4436da58284f0565\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_c108735e54f78a41e66398bb53e3b3cdd1cdaa68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\625bd2a043beacb8e46ae43e67fc4a7d40e4c870\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_1d9ee87999d5b78101b1a9a0cd6d80f3d6280214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\a76d1d6ac36446fa49b417310441507cee9657e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_c8eb4856daa2babc9850a4916f3ba79a78c3ace6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_09ae4b43f12e86d4ad29d51292e7ba9d5089a307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\14999daa4dceb19ebbe66de9bac0b901da0ca38f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_37f438472c03de636279b7e9262ca69791ef016f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\bd81f51cb00f05dded52fb070ac31de0379bde66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_6ec0d0f5ce49b168b409987d79219e8215b37e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\e0093c15b4df08c00c8df899206ccf91d6cc898c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_9a9eceaa67a2da4cedd8c05d64a159d581e37888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\16b4f0e21e8284341b691d93af6fa8ce85b3d87c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_58669d7ea053c573d29127c5f5f3d4fc44d4cff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\625bd2a043beacb8e46ae43e67fc4a7d40e4c870\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_1d9ee87999d5b78101b1a9a0cd6d80f3d6280214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\6509e60c411c9398ce2d8fe1b0092810f2d909ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_379ec8afd4b9e855f287196b20906fc39b3727fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_e9914c9033c4bd521077a2723215d8b9e4d8955e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\549820febdea93c8eae7cf0f594ca777b2835473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_4b7137686039dd683d4d6de95b0c866838c792de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\b269dace2785ed38029501841b8584aa699126d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_b1e5535c571b33fa0cfa2da8d679693a6fcb74ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9ae63dc2f47540a5fc5aeeaa05ba0d3848dcedd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\85aaca0e3ef8a6643e96f562a008530d31ce393b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_112951d5fd7183108447a5ea98a02db44ef4857c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\brawn\.android\build-cache\877f43367018325505e79aca1ef61fd7edcc46a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_a3c5789b9a3f4f4db7e50b467fd3733bd904bac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Brawn-Tests\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="D:\Brawn-Tests\android\app\build\intermediates\pre-dexed\debug\classes_7a3fcb3b0b7c0388ea4922f1742563b5bd77f890.jar" />
+    </item>
+
+</items>

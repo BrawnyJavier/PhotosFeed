@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bottom_navigation_small_item.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\6509e60c411c9398ce2d8fe1b0092810f2d909ff\\output\\res\\layout-v21\\bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bottom_navigation_item.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\6509e60c411c9398ce2d8fe1b0092810f2d909ff\\output\\res\\layout-v21\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

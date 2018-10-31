@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\pop.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\549820febdea93c8eae7cf0f594ca777b2835473\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\549820febdea93c8eae7cf0f594ca777b2835473\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\549820febdea93c8eae7cf0f594ca777b2835473\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\no_animation.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\no_animation.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\549820febdea93c8eae7cf0f594ca777b2835473\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\549820febdea93c8eae7cf0f594ca777b2835473\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\549820febdea93c8eae7cf0f594ca777b2835473\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\a3dd3eaa3c7dbb3473318e6084b1743ed5eca4f8\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\brawn\\.android\\build-cache\\3a02a24dab96425885086acde9ec94255272514a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Brawn-Tests\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\lightbox_enter.xml",
+        "source": "D:\\Brawn-Tests\\node_modules\\react-native-navigation\\android\\app\\build\\intermediates\\bundles\\default\\res\\anim\\lightbox_enter.xml"
+    }
+]
